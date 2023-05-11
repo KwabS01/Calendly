@@ -1,0 +1,27 @@
+.col-md-1{
+	text-align: right;
+	padding: 30px;
+	margin: 10px;
+	font-style: 10px solid;
+}
+h2{
+	font-style: 3px solid;
+
+}
+.col-md-12{ color: white;
+	background-color: blue; font-style: oblique;
+}
+.col-md-3-we{
+	color: blue;
+	text-align: center;
+	padding: 30px;
+}
+button{
+	background-color: white;
+	border-radius: 50px;
+	padding: 14px;
+	margin: 30px;
+}
+btn-primary{
+	background-color: black;
+}

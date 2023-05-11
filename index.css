@@ -1,0 +1,37 @@
+.writeup{
+	margin-top: 30px;
+}
+#btr{
+	color: blue;
+}
+button{
+	border-radius:30px;
+}
+.writeupr{
+	margin-right: 30px;
+}
+.mid{
+	max-height: 50px;
+height: 50%;
+}
+footer{
+	margin-top: 300px;
+}
+dropdown{
+	background-color: none;
+}
+.dropdown-toggle{
+	background-color: none;
+	border-color: black;
+	border-width: 1px;
+}
+.abt{
+	color: #00094b !important;
+}
+#ahd{
+	color: blue;
+}
+.nav-item{
+margin-left: 40px;
+
+}
